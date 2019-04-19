@@ -1,6 +1,6 @@
-# modular-todo
+# vue-todo
 
-> A Vue.js project
+> 一个基于vue的todo小工具，可以记录你准备要做的以及做过的事情
 
 ## Build Setup
 
